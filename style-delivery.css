@@ -30,6 +30,17 @@ nav a:hover{
     cursor: pointer;
     
 }
+.lojas-delivery{
+width: 940px;
+margin: 0 auto;
+
+}
+
+.lojas-delivery li{
+    display: inline-block;
+    text-align: center;
+
+}
 footer{
     text-align: center;
     background:#f5b70e;
