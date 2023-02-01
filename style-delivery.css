@@ -39,7 +39,19 @@ margin: 0 auto;
 .lojas-delivery li{
     display: inline-block;
     text-align: center;
+    width: 30%;
+    vertical-align: top;
 
+}
+.lojas-delivery img{
+    max-width:250px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    border-radius: 50px;
+}
+.lojas-delivery h2{
+   display: none;
 }
 footer{
     text-align: center;
